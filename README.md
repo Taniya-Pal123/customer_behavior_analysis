@@ -101,7 +101,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/Taniya-Pal123/customer_behavior_analysis.git](https://github.com/Taniya-Pal123/customer_behavior_analysis.git)
+https://github.com/Taniya-Pal123/customer_behavior_analysis.git
 ```
 
 ### 2. Navigate to the Project Directory
